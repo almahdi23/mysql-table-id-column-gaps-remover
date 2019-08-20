@@ -1,3 +1,3 @@
-# mysql-db-id-column-gaps-remover
+# mysql-table-id-column-gaps-remover
 
 in python and php
